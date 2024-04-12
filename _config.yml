@@ -1,14 +1,15 @@
 title: Young Pirates of Europe
-  description: >
-    Young Pirates of Europe asbl
-    1a, rue de Luxembourg
-    8184 Kopstal, Luxemburg
-    
-    office@young-pirates.eu
+description: >
+  Young Pirates of Europe asbl
+  1a, rue de Luxembourg
+  8184 Kopstal, Luxemburg
+  
+  office@young-pirates.eu
+theme: minima
 
-  minima:
-    skin: auto
-    
-    social_links:
-      - { platform: facebook,       user_url: "https://www.facebook.com/youngpiratesEU/" }
-      - { platform: x,              user_url: "https://twitter.com/YoungPiratesEU" }
+minima:
+  skin: auto
+  
+  social_links:
+    - { platform: facebook,       user_url: "https://www.facebook.com/youngpiratesEU/" }
+    - { platform: x,              user_url: "https://twitter.com/YoungPiratesEU" }
