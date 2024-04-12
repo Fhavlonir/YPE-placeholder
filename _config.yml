@@ -8,12 +8,11 @@ description:
 
   This placeholder site is free software, under the AGPL v3.0 license,
   the source code is available on the Github link in this footer.
-theme: minima
+
+remot_theme: jekyll/minima
 
 minima:
-  skin: auto
-  
-    #social_links:
-    #  - { platform: facebook,       user_url: "https://www.facebook.com/youngpiratesEU/" }
-    #  - { platform: x,              user_url: "https://twitter.com/YoungPiratesEU" }
-    #  - { platform: github,         user_url: "https://github.com/Fhavlonir/YPE-placeholder" }
+  social_links:
+    - { platform: facebook,       user_url: "https://www.facebook.com/youngpiratesEU/" }
+    - { platform: x,              user_url: "https://x.com/YoungPiratesEU" }
+    - { platform: github,         user_url: "https://github.com/Fhavlonir/YPE-placeholder" }
