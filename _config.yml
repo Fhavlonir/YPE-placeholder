@@ -4,8 +4,10 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 
 title-img: "icon.svg"
 
-include: _includes
-footer-extra: info.html
+include: 
+  - _includes
+footer-extra: 
+  - "/_includes/info.html"
 site-css:
   - "/_includes/styling.css"
 
