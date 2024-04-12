@@ -13,7 +13,7 @@ theme: minima
 minima:
   skin: auto
   
-social_links:
-  - { platform: facebook,       user_url: "https://www.facebook.com/youngpiratesEU/" }
-  - { platform: x,              user_url: "https://twitter.com/YoungPiratesEU" }
-  - { platform: github,         user_url: "https://github.com/Fhavlonir/YPE-placeholder" }
+    #social_links:
+    #  - { platform: facebook,       user_url: "https://www.facebook.com/youngpiratesEU/" }
+    #  - { platform: x,              user_url: "https://twitter.com/YoungPiratesEU" }
+    #  - { platform: github,         user_url: "https://github.com/Fhavlonir/YPE-placeholder" }
