@@ -5,6 +5,9 @@ description: >
   8184 Kopstal, Luxemburg
   
   office@young-pirates.eu
+
+  This placeholder site is free software, under the AGPL v3.0 license,
+  [the source code is available on Github.](https://github.com/Fhavlonir/YPE-placeholder)
 theme: minima
 
 minima:
