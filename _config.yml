@@ -24,4 +24,4 @@ defaults:
       path: ""
     values:
       footer-extra: info.html
-      cover-img: "/construction.md"
+      cover-img: "/construction.jpg"
