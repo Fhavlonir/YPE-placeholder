@@ -1,11 +1,13 @@
 title: Young Pirates of Europe
-description: 
-  Young Pirates of Europe asbl<br>
-  1a, rue de Luxembourg<br>
-  8184 Kopstal, Luxemburg<br>
-  <br><br>
-  office@young-pirates.eu<br>
-  <br><br>
+author:
+  email: office@young-pirates.eu
+description: >-
+  Young Pirates of Europe asbl
+  1a, rue de Luxembourg
+  8184 Kopstal, Luxemburg
+
+  office@young-pirates.eu
+
   This placeholder site is free software, under the AGPL v3.0 license,
   the source code is available on the Github link in this footer.
 
