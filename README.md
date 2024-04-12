@@ -10,4 +10,4 @@ You’re also welcome to [join us on Mattermost](https://mattermost.european-pir
 
 
 ![Wooden Ships Under Construction, Chittagong Bangladesh](construction.jpg)
-"[Wooden Ships Under Construction, Chittagong Bangladesh](https://www.flickr.com/photos/96142515@N00/48796499543)" by [AdamCohn](https://www.flickr.com/photos/96142515@N00) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=openverse).
+> "[Wooden Ships Under Construction, Chittagong Bangladesh](https://www.flickr.com/photos/96142515@N00/48796499543)" by [AdamCohn](https://www.flickr.com/photos/96142515@N00) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=openverse).
