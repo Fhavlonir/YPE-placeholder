@@ -6,7 +6,6 @@ avatar: "icon.svg"
 
 include: 
   - _includes
-footer-extra: info.html
 site-css:
   - "/_includes/styling.css"
 
