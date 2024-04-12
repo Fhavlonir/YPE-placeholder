@@ -7,7 +7,7 @@ title-img: "icon.svg"
 include: 
   - _includes
 footer-extra: 
-  - "/_includes/info.html"
+  - "info.html"
 site-css:
   - "/_includes/styling.css"
 
