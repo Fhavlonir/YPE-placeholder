@@ -1,4 +1,4 @@
-# Young Pirates of Europe
+# Placeholder site
 
 Dear Visitor, 
 
