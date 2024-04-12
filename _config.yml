@@ -10,6 +10,7 @@ site-css:
   - "/_includes/styling.css"
 
 remove-ads: true
+title-on-all-pages: false
 
 social-network-links:
   email: office@young-pirates.eu
