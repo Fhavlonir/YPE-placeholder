@@ -2,7 +2,7 @@ title: Young Pirates of Europe
 
 remote_theme: daattali/beautiful-jekyll@6.0.1
 
-avatar: "icon.svg"
+title-img: "icon.svg"
 
 include: 
   - _includes
@@ -24,3 +24,4 @@ defaults:
       path: ""
     values:
       footer-extra: info.html
+      cover-img: "/construction.md"
