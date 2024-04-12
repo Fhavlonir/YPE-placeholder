@@ -1,22 +1,16 @@
 title: Young Pirates of Europe
-author:
+
+remote_theme: daattali/beautiful-jekyll@6.0.1
+
+avatar: "icon.svg"
+
+footer-extra: "info.html"
+
+remove_ads: true
+
+social-network-links:
   email: office@young-pirates.eu
-description: >-
-  Young Pirates of Europe asbl
-  1a, rue de Luxembourg
-  8184 Kopstal, Luxemburg
-  
-  office@young-pirates.eu
-  
-  This placeholder site is free software, under the AGPL v3.0 license,
-  the source code is available on the Github link in this footer.
-
-remote_theme: jekyll/minima
-
-minima:
-  skin: auto
-
-  social_links:
-    - { platform: facebook,       user_url: "https://www.facebook.com/youngpiratesEU/" }
-    - { platform: x,              user_url: "https://x.com/YoungPiratesEU" }
-    - { platform: github,         user_url: "https://github.com/Fhavlonir/YPE-placeholder" }
+  rss: false
+  facebook: youngpiratesEU
+  twitter: YoungPiratesEU
+  github: Fhavlonir/YPE-placeholder
