@@ -9,7 +9,7 @@ description:
   This placeholder site is free software, under the AGPL v3.0 license,
   the source code is available on the Github link in this footer.
 
-remot_theme: jekyll/minima
+remote_theme: jekyll/minima
 
 minima:
   social_links:
