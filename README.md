@@ -1,7 +1,5 @@
 ---
 footer-extra: info.html
-title: Young Pirates of Europe
-cover-img: construction.jpg
 ---
 
 Dear Visitor, 
