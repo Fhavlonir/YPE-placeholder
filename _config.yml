@@ -1,7 +1,5 @@
 title: Young Pirates of Europe
 
-remote_theme: daattali/beautiful-jekyll@6.0.1
-
 title-img: "icon.svg"
 
 include: 
@@ -9,8 +7,10 @@ include:
 site-css:
   - "/_includes/styling.css"
 
-remove-ads: true
-title-on-all-pages: false
+header_pages:
+  - "elections.md"
+  - "workwithus.md"
+
 
 social-network-links:
   email: office@young-pirates.eu
@@ -19,10 +19,4 @@ social-network-links:
   twitter: YoungPiratesEU
   github: Fhavlonir/YPE-placeholder
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      footer-extra: info.html
-      cover-img: "/construction.jpg"
+
