@@ -9,7 +9,7 @@ title: Work with us
 
 <p>No openings at the moment.</p>
 
-<h2><span> class="color_box" style="background:#FFE76B">Openings with European Pirates</span></h2>
+<h2><span class="color_box" style="background:#FFE76B">Openings with European Pirates</span></h2>
 
 <p>PR Internship with Pirate Members of the European Parliament End of September 2024 - Mid-February 2025, Full time, 1500 EUR/month</p>
 
@@ -23,7 +23,7 @@ Deadline 31st of May 00:00 CET</p>
 
 <p><a href="https://european-pirateparty.eu/job-offer-pr-internship-with-pirate-members-of-the-european-parliament/" class="more_button">More</a></p>
 
-<h2><span class="color_box" style="background:#3F3939">Openings in our Network</span></h2>
+<h2><span class="color_box" style="background:#3F3939;color:#fff">Openings in our Network</span></h2>
 
 <p>No openings at the moment.</p>
 

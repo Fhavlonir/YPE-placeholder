@@ -49,7 +49,7 @@ Pirate since 2015, she is involved in feminists and queer not for profits and no
 
 <p>Mattias works as a school clerk, freelance writer, and personal assistant while also studying to become a high school teacher. His academic background is diverse, having studied subjects such as mathematics, philosophy, history, political science, economics, and linguistics. From 2017 to 2022, Mattias served as the party secretary for the Pirate Party and was responsible for writing most of the party’s current policy. In his free time, he enjoys abstracting, synthesizing, and presenting information as his main hobby.</p>
 
-<h2><span class="color_box" style="background:#3F3939">Program</span></h2>
+<h2><span class="color_box" style="background:#3F3939;color:#fff">Program</span></h2>
 
 <h4 id="we-support-the-european-pirate-partys-program-key-areas-are-">We support the European Pirate Party’s Program. Key areas are :</h4>
 
@@ -62,6 +62,6 @@ Pirate since 2015, she is involved in feminists and queer not for profits and no
 
 <p><a href="https://european-pirateparty.eu/programme/" class="more_button">More</a></p>
 
-<h2><span class="color_box" style="background:#3F3939">Campaigns</span></h2>
+<h2><span class="color_box" style="background:#3F3939;color:#fff">Campaigns</span></h2>
 <h4 id="follow-the-campaigns-involving-our-member-organizations">Follow the campaigns involving our Member Organizations</h4>
 <p><a href="https://eurovolby.pirati.cz/">Czech Republic</a> <a href="https://europa2024.piratenpartei.de/">Germany</a> | <a href="https://europeennes.partipirate.org/index.html">France</a> | <a href="https://piraten.lu/eu2024/">Luxembourg</a> | <a href="https://piratpartiet.se/valmanifest-eu-valet-2024/">Sweden</a>
