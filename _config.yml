@@ -1,22 +1,16 @@
 title: Young Pirates of Europe
 
-title-img: "icon.svg"
+email: office@young-pirates.eu
+facebook_username: youngpiratesEU
+twitter_username: YoungPiratesEU
+github_username: Fhavlonir/YPE-placeholder
 
 include: 
   - _includes
+
 site-css:
   - "/_includes/styling.css"
 
 header_pages:
   - "elections.md"
   - "workwithus.md"
-
-
-social-network-links:
-  email: office@young-pirates.eu
-  rss: false
-  facebook: youngpiratesEU
-  twitter: YoungPiratesEU
-  github: Fhavlonir/YPE-placeholder
-
-

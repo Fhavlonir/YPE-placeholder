@@ -1,26 +1,27 @@
 <footer class="site-footer h-card" style="background:#000;color:#fff">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
   <div class="wrapper">
 
-    <ul style="list-style:none;display:flex;flex-direction:row;justify-content:space-between;padding:0;">
-        <li style="text-align:left">
-            Young Pirates of Europe asbl</br>
-    1a, rue de Luxembourg</br>
-    8184 Kopstal, Luxemburg
-        </li>
-        <li>
-            Socials go here
-        </li>
-        <li>
-            <ul>
-                <li>Transparency</li>
-                <li><a href="https://cloud.partipirate.org/index.php/s/Y5Y8ZQzFNeJwxBp">Statutes</a></li>
-            </ul>
-        </li>
-    </ul>
-    <!-- Uwu -->
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        Young Pirates of Europe asbl</br>
+        1a, rue de Luxembourg</br>
+        8184 Kopstal, Luxemburg
+        <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <ul>
+          <li>Transparency</li>
+          <li><a href="https://cloud.partipirate.org/index.php/s/Y5Y8ZQzFNeJwxBp">Statutes</a></li>
+        </ul>
+      </div>
+    </div>
 
   </div>
-
+    <!-- Uwu -->
 </footer>
