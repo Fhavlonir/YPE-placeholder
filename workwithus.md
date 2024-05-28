@@ -21,7 +21,7 @@ Be at least 8yo, Native Level in Czech, C1/C2 Level in spoken and written englis
 <p>Application Details and Process:
 Deadline 31st of May 00:00 CET</p>
 
-<p><a href="https://european-pirateparty.eu/job-offer-pr-internship-with-pirate-members-of-the-european-parliament/">More</a></p>
+<p><a href="https://european-pirateparty.eu/job-offer-pr-internship-with-pirate-members-of-the-european-parliament/" class="more_button">More</a></p>
 
 <h2 id="openings-in-our-network" class="color_box" style="background:#3F3939">Openings in our Network</h2>
 
