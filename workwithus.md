@@ -7,10 +7,11 @@ title: Work with us
 
 <h2><span class="color_box" style="background:#E77878">Openings with Young Pirates</span></h2>
 
-<p>No openings at the moment.</p>
+<div class=opening_container><p>No openings at the moment.</p></div>
 
 <h2><span class="color_box" style="background:#FFE76B">Openings with European Pirates</span></h2>
 
+<div class=opening_container>
 <p>PR Internship with Pirate Members of the European Parliament End of September 2024 - Mid-February 2025, Full time, 1500 EUR/month</p>
 
 <p>The Greens/EFA Group in the European Parliament offers a fully paid  internship lasting 5 months to support the public relations efforts of  Pirate Members of the European Parliament.</p>
@@ -23,7 +24,9 @@ Deadline 31st of May 00:00 CET</p>
 
 <p><a href="https://european-pirateparty.eu/job-offer-pr-internship-with-pirate-members-of-the-european-parliament/" class="more_button">More</a></p>
 
+</div>
+
 <h2><span class="color_box" style="background:#3F3939;color:#fff">Openings in our Network</span></h2>
 
-<p>No openings at the moment.</p>
+<div class=opening_container><p>No openings at the moment.</p></div>
 

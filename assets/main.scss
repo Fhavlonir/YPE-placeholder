@@ -4,6 +4,10 @@
 
 @import "minima";
 
+h1 {
+  font-size:300;
+}
+
 .color_box {
   margin:1rem;
   padding:.75rem;
@@ -24,4 +28,19 @@
   border-radius:0.5rem;
   color:#eee;
   background:#111;
+}
+
+.more_button:visited {
+  color:#eee;
+}
+
+.more_button:hover {
+  color:#eee;
+}
+
+.opening_container {
+  min-height: 10rem;
+  display:flex;
+  justify-content: center;
+  align-items: center;
 }
