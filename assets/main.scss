@@ -2,93 +2,91 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-
-.roboto-thin {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 100;
   font-style: normal;
   src: url('./Roboto/Roboto-Thin.woff2');
 }
 
-.roboto-light {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 300;
   font-style: normal;
   src: url('./Roboto/Roboto-Light.woff2');
 }
 
-.roboto-regular {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-style: normal;
   src: url('./Roboto/Roboto-Regular.woff2');
 }
 
-.roboto-medium {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-style: normal;
   src: url('./Roboto/Roboto-Medium.woff2');
 }
 
-.roboto-bold {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-style: normal;
   src: url('./Roboto/Roboto-Bold.woff2');
 }
 
-.roboto-black {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 900;
   font-style: normal;
   src: url('./Roboto/Roboto-Black.woff2');
 }
 
-.roboto-thin-italic {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 100;
   font-style: italic;
   src: url('./Roboto/Roboto-ThinItalic.woff2');
 }
 
-.roboto-light-italic {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 300;
   font-style: italic;
   src: url('./Roboto/Roboto-LightItalic.woff2');
 }
 
-.roboto-regular-italic {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-style: italic;
   src: url('./Roboto/Roboto-RegularItalic.woff2');
 }
 
-.roboto-medium-italic {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-style: italic;
   src: url('./Roboto/Roboto-MediumItalic.woff2');
 }
 
-.roboto-bold-italic {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-style: italic;
   src: url('./Roboto/Roboto-BoldItalic.woff2');
 }
 
-.roboto-black-italic {
+@font-face {
   font-family: "Roboto", sans-serif;
   font-weight: 900;
   font-style: italic;
   src: url('./Roboto/Roboto-BlackItalic.woff2');
 }
 
-.bebas-neue-regular {
+@font-face {
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-style: normal;
