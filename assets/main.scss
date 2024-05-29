@@ -136,8 +136,12 @@ h1 {
 .more_button {
   padding: 0.5rem;
   border-radius:0.5rem;
-  color:#eee;
   background:#111;
+  color:#eee;
+}
+
+.more_button a {
+  color:#eee;
 }
 
 .more_button:visited {
@@ -165,6 +169,11 @@ h1 {
 .horizontal_list li::marker {
   font-size:200%;
   font-weight:900;
+}
+
+.horizontal_list a {
+  color: #008;
+  text-decoration: underline;
 }
 
 .horizontal_list li {

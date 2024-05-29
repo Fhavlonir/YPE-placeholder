@@ -9,11 +9,11 @@ title: 2024 European Elections
 <h3>Discover the Young Pirates across Europe who are leading the European Elections Campaigns at the top of pirates lists!</h3>
 
 <row style="display:flex">
-    <img src="assets/marketka.avif" style="height:15rem;width:15rem;border-radius:2rem"/>
+    <img alt="Portrait of Markéta Gregorová" src="assets/marketka.webp" style="height:15rem;width:15rem;border-radius:2rem"/>
     <div style="margin:2rem">
         <row style="display:flex;gap:1rem">
             <h4>Markéta Gregorová</h4>
-            <div><a href="https://eurovolby.pirati.cz/kandidati/marketa-gregorova/" class="more_button">More</a></div>
+            <div class="more_button"><a href="https://eurovolby.pirati.cz/kandidati/marketa-gregorova/">Learn about Markéta</a></div>
         </row>
         <ul style="list-style:none;display:flex;flex-direction:row;justify-content:space-between">
               <li>Czech Republic</li>
@@ -25,11 +25,11 @@ title: 2024 European Elections
 </row>
 
 <row style="display:flex">
-    <img src="assets/anne.avif" style="height:15rem;width:15rem;border-radius:2rem"/>
+    <img alt="Portrait of Anne Herpetz" src="assets/anne.webp" style="height:15rem;width:15rem;border-radius:2rem"/>
     <div style="margin:2rem">
         <row style="display:flex;gap:1rem">
             <h4>Anne Herpetz</h4>
-            <div><a href="https://europa2024.piratenpartei.de/kandidaten/anne-herpertz/" class="more_button">More</a></div>
+            <div class="more_button"><a href="https://europa2024.piratenpartei.de/kandidaten/anne-herpertz/" >Learn about Anne</a></div>
         </row>
         <ul style="list-style:none;display:flex;flex-direction:row;justify-content:space-between">
               <li>Germany</li>
@@ -43,11 +43,11 @@ title: 2024 European Elections
 
 
 <row style="display:flex">
-    <img src="assets/tarja.webp" style="height:15rem;width:15rem;border-radius:2rem"/>
+    <img alt="Portrait of Tarja Fauvet" src="assets/tarja.webp" style="height:15rem;width:15rem;border-radius:2rem"/>
     <div style="margin:2rem">
         <row style="display:flex;gap:1rem">
         <h4>Tarja Fauvet </h4> 
-        <div><a href="https://europeennes.partipirate.org/candidats.html" class="more_button">More</a></div>
+        <div class="more_button"><a href="https://europeennes.partipirate.org/candidats.html">Learn about Tarja</a></div>
         </row>
         <ul style="list-style:none;display:flex;flex-direction:row;justify-content:space-between">
               <li>France</li>
@@ -60,11 +60,11 @@ title: 2024 European Elections
 </row>
 
 <row style="display:flex">
-    <img src="assets/mattias.webp" style="height:15rem;width:15rem;border-radius:2rem"/>
+    <img alt="Portrait of Mattias Rubenson" src="assets/mattias.webp" style="height:15rem;width:15rem;border-radius:2rem"/>
     <div style="margin:2rem">
         <row style="display:flex;gap:1rem">
             <h4>Mattias Rubenson</h4> 
-            <div><a href="https://piratpartiet.se/kandidater-till-eu-valet-2024/" class="more_button">More</a></div>
+            <div class="more_button"><a href="https://piratpartiet.se/kandidater-till-eu-valet-2024/">Learn about Mattias</a></div>
         </row>
     <ul style="list-style:none;display:flex;flex-direction:row;justify-content:space-between">
         <li>Sweden</li>
@@ -86,10 +86,10 @@ title: 2024 European Elections
   <li><div>Strengthening EU Defense and Security </div></li>
 </ol>
 
-<p style="text-align:center"><a href="https://european-pirateparty.eu/programme/" class="more_button">More</a></p>
+<p style="text-align:center"><a href="https://european-pirateparty.eu/programme/" class="more_button">Programme of the EU Pirates</a></p>
 
 <h2><span class="color_box" style="background:#3F3939;color:#fff">Campaigns</span></h2>
-<h4 id="follow-the-campaigns-involving-our-member-organizations">Follow the campaigns involving our Member Organizations</h4>
+<h3 id="follow-the-campaigns-involving-our-member-organizations">Follow the campaigns involving our Member Organizations</h3>
 
 <ul class="horizontal_list" style="list-style:none">
     <li><div><a href="https://eurovolby.pirati.cz/">Czech Republic</a>              </div></li>
