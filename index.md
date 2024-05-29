@@ -17,7 +17,7 @@
 
 
 <h2 style="text-align:center">Join us!</h2>
-<h4 style="text-align:center">Let's make the future happen together</h4>
+<h3 style="text-align:center">Let's make the future happen together</h3>
 
 <row>
 <div class="color_box" style="background:#3F3939;color:#fff;margin:auto;max-width:20rem">
