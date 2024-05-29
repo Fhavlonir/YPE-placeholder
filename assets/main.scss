@@ -195,3 +195,35 @@ h1 {
 .social-media-list .svg-icon {
   transform: scale(2);
 }
+
+.candidate-profile {
+  display:flex;
+  margin-bottom: 5rem;
+}
+
+.candidate-profile img {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 2rem;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+}
+
+.candidate-profile row {
+  display:flex;
+  gap:1rem;
+  align-items: center;
+}
+
+.candidate-profile h4 {
+  margin-top:15px;
+}
+
+.candidate-profile ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 3rem;
+  margin-left:0px;
+}

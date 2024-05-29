@@ -4,18 +4,18 @@ title: 2024 European Elections
 
 <h1 id="europe-needs-young-pirates">Europe Needs Young Pirates</h1>
 
-<h2><span class="color_box" style="background:#E77878">Candidacies</span></h2>
+<h2><span class="color_box" style="background: #E77878">Candidacies</span></h2>
 
 <h3>Discover the Young Pirates across Europe who are leading the European Elections Campaigns at the top of pirates lists!</h3>
 
-<row style="display:flex">
-    <img alt="Portrait of Markéta Gregorová" src="assets/marketka.webp" style="height:15rem;width:15rem;border-radius:2rem"/>
-    <div style="margin:2rem">
-        <row style="display:flex;gap:1rem">
+<row class="candidate-profile">
+    <img alt="Portrait of Markéta Gregorová" src="assets/marketka.webp"/>
+    <div>
+        <row>
             <h4>Markéta Gregorová</h4>
             <div class="more_button"><a href="https://eurovolby.pirati.cz/kandidati/marketa-gregorova/">Learn about Markéta</a></div>
         </row>
-        <ul style="list-style:none;display:flex;flex-direction:row;justify-content:space-between">
+        <ul>
               <li>Czech Republic</li>
               <li>Pirátská Strana</li>
               <li>31</li>
@@ -24,14 +24,14 @@ title: 2024 European Elections
     </div>
 </row>
 
-<row style="display:flex">
-    <img alt="Portrait of Anne Herpetz" src="assets/anne.webp" style="height:15rem;width:15rem;border-radius:2rem"/>
-    <div style="margin:2rem">
-        <row style="display:flex;gap:1rem">
+<row class="candidate-profile">
+    <img alt="Portrait of Anne Herpetz" src="assets/anne.webp"/>
+    <div>
+        <row>
             <h4>Anne Herpetz</h4>
             <div class="more_button"><a href="https://europa2024.piratenpartei.de/kandidaten/anne-herpertz/" >Learn about Anne</a></div>
         </row>
-        <ul style="list-style:none;display:flex;flex-direction:row;justify-content:space-between">
+        <ul >
               <li>Germany</li>
               <li>Piratenpartei</li>
               <li>26</li>
@@ -42,14 +42,14 @@ title: 2024 European Elections
 </row>
 
 
-<row style="display:flex">
-    <img alt="Portrait of Tarja Fauvet" src="assets/tarja.webp" style="height:15rem;width:15rem;border-radius:2rem"/>
-    <div style="margin:2rem">
-        <row style="display:flex;gap:1rem">
+<row class="candidate-profile">
+    <img alt="Portrait of Tarja Fauvet" src="assets/tarja.webp"/>
+    <div>
+        <row>
         <h4>Tarja Fauvet </h4> 
         <div class="more_button"><a href="https://europeennes.partipirate.org/candidats.html">Learn about Tarja</a></div>
         </row>
-        <ul style="list-style:none;display:flex;flex-direction:row;justify-content:space-between">
+        <ul>
               <li>France</li>
               <li>Parti Pirate</li>
               <li>28</li>
@@ -59,14 +59,14 @@ title: 2024 European Elections
     </div>
 </row>
 
-<row style="display:flex">
-    <img alt="Portrait of Mattias Rubenson" src="assets/mattias.webp" style="height:15rem;width:15rem;border-radius:2rem"/>
-    <div style="margin:2rem">
-        <row style="display:flex;gap:1rem">
+<row class="candidate-profile">
+    <img alt="Portrait of Mattias Rubenson" src="assets/mattias.webp"/>
+    <div>
+        <row>
             <h4>Mattias Rubenson</h4> 
-            <div class="more_button"><a href="https://piratpartiet.se/kandidater-till-eu-valet-2024/">Learn about Mattias</a></div>
+            <div class="more_button" style="background: #3F3939"><a href="https://piratpartiet.se/kandidater-till-eu-valet-2024/">Learn about Mattias</a></div>
         </row>
-    <ul style="list-style:none;display:flex;flex-direction:row;justify-content:space-between">
+    <ul>
         <li>Sweden</li>
         <li>Piratpartiet</li>
         <li>30</li>
@@ -75,7 +75,7 @@ title: 2024 European Elections
     </div>
 </row>
 
-<h2><span class="color_box" style="background:#3F3939;color:#fff">Program</span></h2>
+<h2><span class="color_box" style="background: #3F3939;color:#fff">Program</span></h2>
 
 <h3 id="we-support-the-european-pirate-partys-program-key-areas-are-">We support the European Pirate Party’s Program. Key areas are:</h3>
 
@@ -88,7 +88,7 @@ title: 2024 European Elections
 
 <p style="text-align:center"><a href="https://european-pirateparty.eu/programme/" class="more_button">Programme of the EU Pirates</a></p>
 
-<h2><span class="color_box" style="background:#3F3939;color:#fff">Campaigns</span></h2>
+<h2><span class="color_box" style="background: #3F3939;color:#fff">Campaigns</span></h2>
 <h3 id="follow-the-campaigns-involving-our-member-organizations">Follow the campaigns involving our Member Organizations</h3>
 
 <ul class="horizontal_list" style="list-style:none">
