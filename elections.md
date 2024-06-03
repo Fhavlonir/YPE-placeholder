@@ -41,6 +41,28 @@ title: 2024 European Elections
     </div>
 </row>
 
+<row class="candidate-profile">
+    <img alt="Portrait of Rebecca Lau" src="assets/becky.avif"/>
+    <div>
+        <row>
+            <h4>Rebecca Lau</h4>
+        </row>
+        <ul>
+              <li>Luxembourg</li>
+              <li>Piratepartei</li>
+              <li>29</li>
+        </ul>
+Rebecca's political priorities are
+<ul style="display:unset;list-style:unset">
+<li>to combat discrimination in all its forms;</li>
+<li>promoting mental health;</li>
+<li>to campaign for better environmental protection;</li>
+<li>to fight against food waste.  </li>
+</ul>
+<p>She also has a bachelor's degree in international hotel and tourism management, is national spokesperson of the Pirates of Luxembourg, as well as board member of the European Young Pirates.  She also likes to volunteer when non-profit organizations need a helping hand.</p>
+        <p></p>
+    </div>
+</row>
 
 <row class="candidate-profile">
     <img alt="Portrait of Tarja Fauvet" src="assets/tarja.webp"/>
