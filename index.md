@@ -1,13 +1,15 @@
 ---
+title: "Young Pirates of Europe"
 carousels:
   - images:
-    - image: ./assets/anne.webp
-    - image: ./assets/becky.webp
-    - image: ./assets/marketka.webp
-    - image: ./assets/mattias.webp
+    - image: assets/banner_7.png
+    - image: assets/banner_1.png
+    - image: assets/banner_6.png
+    - image: assets/banner_2.png
+    - image: assets/banner_3.png
+    - image: assets/banner_5.png
+    - image: assets/banner_4.png
 ---
-
-# Young Pirates of Europe
 
 <row>
     <h2 style="background:#E77878" class="color_box_left">We are Young</h2>
@@ -39,3 +41,26 @@ carousels:
 </ol>
 </div>
 </row>
+
+<div class=widebox style="background: #5A6870">
+<h1>News</h1>
+
+<p style="text-align:center;padding: 40px;margin:0 auto">No news is good news.</p>
+
+</div>
+
+<h1> Calendar </h1>
+
+<iframe id="open-web-calendar" 
+    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+    src="https://open-web-calendar.hosted.quelltext.eu/calendar.html?skin=flat&amp;title=Young%20Pirates%20of%20Europe%20Calendar&amp;url=https%3A%2F%2Fcloud.partipirate.org%2Fremote.php%2Fdav%2Fpublic-calendars%2F5jCfFGemNEj9SdJQ%3Fexport"
+    sandbox="allow-scripts allow-same-origin allow-top-navigation"
+    allowTransparency="true" scrolling="no" 
+    frameborder="0" height="600px" width="100%"></iframe>
+
+<div class=widebox style="background: #FFC927">
+<h1>Keep in touch</h1>
+<div style="width: 50%;margin:0 auto">{% include social.html %}</div>
+<p style="padding:50px;margin:0">We have a newsletter. Do you want our newsletter? Tough shit, I havent made that yet.
+We will keep your email address in order to send you our newsletter. When I do, we will not share it with anyone else.</p>
+</div>

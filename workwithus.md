@@ -1,5 +1,14 @@
 ---
 title: Work with us
+carousels:
+  - images:
+    - image: assets/banner_7.png
+    - image: assets/banner_1.png
+    - image: assets/banner_6.png
+    - image: assets/banner_2.png
+    - image: assets/banner_3.png
+    - image: assets/banner_5.png
+    - image: assets/banner_4.png
 ---
 
   <div class="post-content">

@@ -3,15 +3,19 @@ title: Young Pirates of Europe
 email: office@young-pirates.eu
 facebook_username: youngpiratesEU
 twitter_username: YoungPiratesEU
-github_username: Fhavlonir/YPE-placeholder
+instagram_username: youngpirateseu
 
 include: 
   - _includes
   - assets
+  - fonts
 
 site-css:
   - "/_includes/styling.css"
 
 header_pages:
-  - "elections.md"
-  - "workwithus.md"
+  - "members.md"
+  - "board.md"
+  - "epic.md"
+  - "statutes.md"
+  - "contact.md"

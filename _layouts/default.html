@@ -3,11 +3,15 @@
 
   {%- include head.html -%}
 
+
   <body>
 
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
+
+      {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
       <div class="wrapper">
         {{ content }}
       </div>

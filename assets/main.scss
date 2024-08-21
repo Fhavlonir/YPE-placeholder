@@ -6,121 +6,149 @@
   font-family: "Roboto";
   font-weight: 100;
   font-style: normal;
-  font-display: swap;
-  src: url(../fonts/Roboto/Roboto-Thin.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-Thin.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 300;
   font-style: normal;
-  font-display: swap;
-  src: url(../fonts/Roboto/Roboto-Light.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-Light.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 400;
   font-style: normal;
-  font-display: swap;
-  src: url(../fonts/Roboto/Roboto-Regular.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-Regular.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 500;
   font-style: normal;
-  font-display: swap;
-  src: url(../fonts/Roboto/Roboto-Medium.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-Medium.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 700;
   font-style: normal;
-  font-display: swap;
-  src: url(../fonts/Roboto/Roboto-Bold.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-Bold.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 900;
   font-style: normal;
-  font-display: swap;
-  src: url(../fonts/Roboto/Roboto-Black.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-Black.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 100;
   font-style: italic;
-  font-display: swap;
-  src: url(../fonts/Roboto/Roboto-ThinItalic.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-ThinItalic.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 300;
   font-style: italic;
-  font-display: swap;
-  src: url(../fonts/Roboto/Roboto-LightItalic.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-LightItalic.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 400;
   font-style: italic;
-  font-display: swap;
-  
-  src: url(../fonts/Roboto/Roboto-RegularItalic.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-RegularItalic.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 500;
   font-style: italic;
-  font-display: swap;
-  
-  src: url(../fonts/Roboto/Roboto-MediumItalic.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-MediumItalic.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 700;
   font-style: italic;
-  font-display: swap;
-  
-  src: url(../fonts/Roboto/Roboto-BoldItalic.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-BoldItalic.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 900;
   font-style: italic;
-  font-display: swap;
-  src: url(../fonts/Roboto/Roboto-BlackItalic.woff2) format('woff2');
+  src: url('../fonts/Roboto/Roboto-BlackItalic.woff2') format('woff2');
 }
 
 @font-face {
   font-family: "Bebas Neue";
   font-weight: 400;
   font-style: normal;
-  font-display: swap;
-  src: url(../fonts/Bebas_Neue/BebasNeue-Regular.woff2) format('woff2');
+  src: url('../fonts/Bebas_Neue/BebasNeue-Regular.woff2') format('woff2');
 }
 
 $base-font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
-@import "minima";
-
 h1 {
   font-size:300%;
   font-family:"Bebas Neue";
+  text-align:center;
+}
+
+@import "minima";
+
+.carousel__holder {
+  padding-bottom: 0px !important;
+  margin: 0 !important;
+  width: 100vw !important;
+}
+
+.carousel {
+  position: relative !important;
+  height: 50vw !important;
+  max-height: 500px;
+  margin-bottom: 1em;
+}
+
+.carousel__controls {
+  display: none !important;
+}
+.carousel__indicators {
+  display: none;
 }
 
 .color_box {
   margin:1rem;
   padding:.75rem;
+}
+.board_box {
+  margin:1rem;
+  padding:.75rem;
+  width: 200px;
+  height: 300px;
+  background:#fff;
+  font-family: "Bebas Neue";
+  font-size: 32px;
+  text-align: center;
+}
+.board_box img {
+  border-radius:50%;
+}
+.member_box {
+  margin:1rem;
+  padding:.75rem;
+  width: 200px;
+  height: 300px;
+  background:#fff;
+  font-family: "Bebas Neue";
+  font-size: 32px;
+  text-align: center;
 }
 .color_box_left {
   float:left;
@@ -133,15 +161,34 @@ h1 {
   margin:1.5rem;
 }
 
+.site-title{
+  font-family:"Bebas Neue";
+  font-size:150%;
+  height: 3em;
+}
+
+.titleoverlay {
+  position: relative;
+  color: #fff;
+  font-family: "Bebas Neue";
+  font-size: 100px;
+  margin: 32px;
+  max-width: 330px;
+  line-height: 1.25em;
+  text-align: left;
+}
+
+.site-nav{
+  font-family:"Bebas Neue";
+  font-size:150%;
+}
+
+
 .more_button {
   padding: 0.5rem;
   border-radius:0.5rem;
+  color:#eee;
   background:#111;
-  color:#eee;
-}
-
-.more_button a {
-  color:#eee;
 }
 
 .more_button:visited {
@@ -164,17 +211,11 @@ h1 {
 .horizontal_list {
   display:flex;
   list-style-position: inside;
-  flex-flow:wrap;
 }
 
 .horizontal_list li::marker {
   font-size:200%;
   font-weight:900;
-}
-
-.horizontal_list a {
-  color: #008;
-  text-decoration: underline;
 }
 
 .horizontal_list li {
@@ -197,41 +238,23 @@ h1 {
   transform: scale(2);
 }
 
-.candidate-profile {
-  display:flex;
-  margin-bottom: 5rem;
-  flex-flow:wrap;
+.wrapper::after {
+  content: none;
 }
 
-.candidate-profile img {
-  width: 15rem;
-  height: 15rem;
-  border-radius: 2rem;
-  margin-bottom: 2rem;
-  margin-right: 2rem;
-  object-fit:cover;
-  object-position:center;
+.widebox {
+  width: 100vw;
+  position: relative;
+  left: calc(-50vw + 50%);
+  margin-top: 30px;
 }
-
-.candidate-profile row {
-  display:flex;
-  gap:1rem;
-  align-items: center;
+.page-content {
+  padding: 0;
 }
-
-.candidate-profile h4 {
-  margin-top:15px;
+.wrapper {
+  padding: 0;
 }
-
-.candidate-profile div {
-  max-width: 25rem;
-}
-
-.candidate-profile ul {
-  list-style: none;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-right: 3rem;
-  margin-left:0px;
+.site-header {
+  border-top: 0;
+  border-bottom: 0;
 }
