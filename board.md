@@ -10,17 +10,13 @@ carousels:
     - image: assets/banner_5.png
     - image: assets/banner_4.png
 ---
-<style type="text/css">
-.page-content { 
-  background: #BACAD3;
-}
-</style>
 
 The board is the highest executive meme-shitposting instance of the organisation.
 They are cool and cute and good at video games.
 They can all be reached by email on \<first-name.last-name@young-pirates.eu\>
 
-<div class="widebox" style="display:flex;flex-wrap:wrap;justify-content:center">
+<div class="widebox">
+<div class="board_container">
   <div class="board_box">
     <img src="./assets/Sam.2e16d0ba.fill-250x250.png"/>
     <p>Samuel Enenkl</p>
@@ -29,6 +25,7 @@ They can all be reached by email on \<first-name.last-name@young-pirates.eu\>
   </div>
   <div class="board_box">
     <img/>
+    <img src="./assets/pinu_tunnus_teksti_musta_lowres_qRqZWzi.original.png"/>
     <p>Maija Raudaskoski</p>
     <p>Secretary</p>
     <p>Finland</p>
@@ -55,8 +52,9 @@ They can all be reached by email on \<first-name.last-name@young-pirates.eu\>
     <p>Czech Republic</p>
   </div>
   <div class="board_box">
-    <img src="./assets/Philip.2e16d0ba.fill-250x250.png"/>
+    <img src="./assets/Elliot_profile.2e16d0ba.fill-250x250.png"/>
     <p>Eliott-Spencer Hjaltalín</p>
     <p>Iceland</p>
   </div>
+</div>
 </div>
