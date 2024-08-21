@@ -1,3 +1,12 @@
+---
+carousels:
+  - images:
+    - image: ./assets/anne.webp
+    - image: ./assets/becky.webp
+    - image: ./assets/marketka.webp
+    - image: ./assets/mattias.webp
+---
+
 # Young Pirates of Europe
 
 <row>
