@@ -2,21 +2,25 @@
 title: The Board
 carousels:
   - images:
-    - image: assets/banner_7.AVIF
-    - image: assets/banner_1.AVIF
-    - image: assets/banner_6.AVIF
-    - image: assets/banner_2.AVIF
-    - image: assets/banner_3.AVIF
-    - image: assets/banner_5.AVIF
-    - image: assets/banner_4.AVIF
+    - image: assets/banner_3.png
+    - image: assets/banner_5.png
+    - image: assets/banner_4.png
+    - image: assets/banner_7.png
+    - image: assets/banner_1.png
+    - image: assets/banner_6.png
+    - image: assets/banner_2.png
 ---
+<style type="text/css">
+.page-content { 
+  background: #BACAD3;
+}
+</style>
 
 The board is the highest executive meme-shitposting instance of the organisation.
 They are cool and cute and good at video games.
-They can all be reached by email on \<first-name.last-name@young-pirates.eu\>
+They can all be reached by email on `name@young-pirates.eu`
 
-<div class="widebox">
-<div class="board_container">
+<div class="widebox" style="display:flex;flex-wrap:wrap;justify-content:center">
   <div class="board_box">
     <img src="./assets/Sam.2e16d0ba.fill-250x250.png"/>
     <p>Samuel Enenkl</p>
@@ -24,17 +28,16 @@ They can all be reached by email on \<first-name.last-name@young-pirates.eu\>
     <p>Czech Republic</p>
   </div>
   <div class="board_box">
-    <img/>
-    <img src="./assets/pinu_tunnus_teksti_musta_lowres_qRqZWzi.original.png"/>
+    <img src="./assets/FR.original.png"/>
     <p>Maija Raudaskoski</p>
-    <p>Secretary</p>
+    <p>Secretary-General</p>
     <p>Finland</p>
   </div>
   <div class="board_box">
     <img src="./assets/Florian.2e16d0ba.fill-250x250.png"/>
     <p>Florian Roussel</p>
-    <p>Catboy</p>
-    <p>UwU</p>
+    <p>Treasurer</p>
+    <p>France</p>
   </div>
   <div class="board_box">
     <img src="./assets/Philip.2e16d0ba.fill-250x250.png"/>
@@ -48,7 +51,7 @@ They can all be reached by email on \<first-name.last-name@young-pirates.eu\>
   </div>
   <div class="board_box">
     <img src="./assets/Mili.2e16d0ba.fill-250x250.png"/>
-    <p>Milinka Slouková</p>
+    <p>Mili Slouková</p>
     <p>Czech Republic</p>
   </div>
   <div class="board_box">
@@ -56,5 +59,4 @@ They can all be reached by email on \<first-name.last-name@young-pirates.eu\>
     <p>Eliott-Spencer Hjaltalín</p>
     <p>Iceland</p>
   </div>
-</div>
 </div>

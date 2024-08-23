@@ -2,13 +2,13 @@
 title: Member Organisations
 carousels:
   - images:
-    - image: assets/banner_7.AVIF
-    - image: assets/banner_1.AVIF
-    - image: assets/banner_6.AVIF
-    - image: assets/banner_2.AVIF
-    - image: assets/banner_3.AVIF
-    - image: assets/banner_5.AVIF
-    - image: assets/banner_4.AVIF
+    - image: assets/banner_6.png
+    - image: assets/banner_2.png
+    - image: assets/banner_3.png
+    - image: assets/banner_5.png
+    - image: assets/banner_4.png
+    - image: assets/banner_7.png
+    - image: assets/banner_1.png
 ---
 <style type="text/css">
 .page-content { 
@@ -23,6 +23,11 @@ YPE has member organisations all over Europe. Below you can find our member orga
     <img src="assets/cze.original.png"/>
     <p>Mlade Pirátstvo</p>
     <p>Czech Republic</p>
+  </div>
+  <div class="member_box">
+    <img src="assets/FR.original.png"/>
+    <p>Juenes Pirates</p>
+    <p>France</p>
   </div>
   <div class="member_box">
     <img src="assets/D.original.png"/>

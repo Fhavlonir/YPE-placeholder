@@ -2,13 +2,13 @@
 title: "Young Pirates of Europe"
 carousels:
   - images:
-    - image: assets/banner_7.AVIF
-    - image: assets/banner_1.AVIF
-    - image: assets/banner_6.AVIF
-    - image: assets/banner_2.AVIF
-    - image: assets/banner_3.AVIF
-    - image: assets/banner_5.AVIF
-    - image: assets/banner_4.AVIF
+    - image: assets/banner_7.png
+    - image: assets/banner_1.png
+    - image: assets/banner_6.png
+    - image: assets/banner_2.png
+    - image: assets/banner_3.png
+    - image: assets/banner_5.png
+    - image: assets/banner_4.png
 ---
 
 <row>
@@ -61,6 +61,6 @@ carousels:
 <div class=widebox style="background: #FFC927">
 <h1>Keep in touch</h1>
 <div style="width: 50%;margin:0 auto">{% include social.html %}</div>
-<p style="padding:50px;margin:0">We have a newsletter. Do you want our newsletter? Tough shit, I havent made that yet.
-We will keep your email address in order to send you our newsletter. When I do, we will not share it with anyone else.</p>
+<p style="padding:50px;margin:0">We have a newsletter. Do you want our newsletter? Too bad, I havent made that yet.
+When I do, we will keep your email address in order to send you our newsletter, and not share it with anyone else.</p>
 </div>

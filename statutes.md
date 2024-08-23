@@ -2,13 +2,13 @@
 title: Statutes
 carousels:
   - images:
-    - image: assets/banner_7.AVIF
-    - image: assets/banner_1.AVIF
-    - image: assets/banner_6.AVIF
-    - image: assets/banner_2.AVIF
-    - image: assets/banner_3.AVIF
-    - image: assets/banner_5.AVIF
-    - image: assets/banner_4.AVIF
+    - image: assets/banner_2.png
+    - image: assets/banner_3.png
+    - image: assets/banner_5.png
+    - image: assets/banner_4.png
+    - image: assets/banner_7.png
+    - image: assets/banner_1.png
+    - image: assets/banner_6.png
 ---
 
 (1) Name
