@@ -134,7 +134,7 @@ h1 {
   height: 350px;
   background:#fff;
   font-family: "Bebas Neue";
-  font-size: 32px;
+  font-size: 30px;
   text-align: center;
 }
 .board_box img {
@@ -150,6 +150,15 @@ h1 {
   font-family: "Bebas Neue";
   font-size: 32px;
   text-align: center;
+}
+.member_box div{
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.member_box img{
+  max-height: 200px;
 }
 .color_box_left {
   float:left;
@@ -250,6 +259,9 @@ h1 {
   position: relative;
   left: calc(-50vw + 50%);
   margin-top: 30px;
+  display:flex;
+  justify-content:center;
+  text-align:center;
 }
 .page-content {
   padding: 0;
@@ -260,4 +272,10 @@ h1 {
 .site-header {
   border-top: 0;
   border-bottom: 0;
+}
+.gridcontainer {
+  width:1200px;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center
 }

@@ -20,7 +20,8 @@ The board is the highest executive meme-shitposting instance of the organisation
 They are cool and cute and good at video games.
 They can all be reached by email on `name@young-pirates.eu`
 
-<div class="widebox" style="display:flex;flex-wrap:wrap;justify-content:center">
+<div class="widebox">
+  <div class="gridcontainer">
   <div class="board_box">
     <img src="./assets/Sam.2e16d0ba.fill-250x250.png"/>
     <p>Samuel Enenkl</p>
@@ -58,5 +59,6 @@ They can all be reached by email on `name@young-pirates.eu`
     <img src="./assets/Elliot_profile.2e16d0ba.fill-250x250.png"/>
     <p>Eliott-Spencer Hjaltalín</p>
     <p>Iceland</p>
+  </div>
   </div>
 </div>

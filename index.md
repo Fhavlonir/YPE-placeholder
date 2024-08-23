@@ -43,10 +43,11 @@ carousels:
 </row>
 
 <div class=widebox style="background: #5A6870">
+<div>
 <h1>News</h1>
 
 <p style="text-align:center;padding: 40px;margin:0 auto">No news is good news.</p>
-
+</div>
 </div>
 
 <h1> Calendar </h1>
@@ -59,8 +60,10 @@ carousels:
     frameborder="0" height="600px" width="100%"></iframe>
 
 <div class=widebox style="background: #FFC927">
+<div>
 <h1>Keep in touch</h1>
 <div style="width: 50%;margin:0 auto">{% include social.html %}</div>
 <p style="padding:50px;margin:0">We have a newsletter. Do you want our newsletter? Too bad, I havent made that yet.
 When I do, we will keep your email address in order to send you our newsletter, and not share it with anyone else.</p>
+</div>
 </div>
