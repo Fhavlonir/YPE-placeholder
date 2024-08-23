@@ -2,13 +2,13 @@
 title: EPIC
 carousels:
   - images:
-    - image: assets/banner_5.png
-    - image: assets/banner_4.png
-    - image: assets/banner_7.png
-    - image: assets/banner_1.png
-    - image: assets/banner_6.png
-    - image: assets/banner_2.png
-    - image: assets/banner_3.png
+    - image: assets/banner_5.avif
+    - image: assets/banner_4.avif
+    - image: assets/banner_7.avif
+    - image: assets/banner_1.avif
+    - image: assets/banner_6.avif
+    - image: assets/banner_2.avif
+    - image: assets/banner_3.avif
 ---
 EPIC is the association‘s highest decision-making body. EPIC regularly meets at least once 
 in every calendar year. An extraordinary EPIC meeting (EPIC FAIL) takes place if requested 
