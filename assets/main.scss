@@ -130,12 +130,16 @@ h1 {
 .board_box {
   margin:1rem;
   padding:.75rem;
-  width: 200px;
-  height: 350px;
+  width: 250px;
+  height: 450px;
   background:#fff;
   font-family: "Bebas Neue";
   font-size: 30px;
   text-align: center;
+}
+.email {
+  font-family: "Roboto";
+  font-size: 16px;
 }
 .board_box img {
   border-radius:50%;
