@@ -1,21 +1,28 @@
 title: Young Pirates of Europe
 
-email: office@young-pirates.eu
-facebook_username: youngpiratesEU
-twitter_username: YoungPiratesEU
-instagram_username: youngpirateseu
+remote_theme: daattali/beautiful-jekyll@6.0.1
+
+title-img: "icon.svg"
 
 include: 
   - _includes
-  - assets
-  - fonts
-
 site-css:
   - "/_includes/styling.css"
 
-header_pages:
-  - "members.md"
-  - "board.md"
-  - "epic.md"
-  - "statutes.md"
-  - "contact.md"
+remove-ads: true
+title-on-all-pages: false
+
+social-network-links:
+  email: office@young-pirates.eu
+  rss: false
+  facebook: youngpiratesEU
+  twitter: YoungPiratesEU
+  github: Fhavlonir/YPE-placeholder
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      footer-extra: info.html
+      cover-img: "/construction.jpg"
